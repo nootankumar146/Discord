@@ -1,1 +1,2 @@
 # Discord
+Welcome to our homemade Discord look-alike! It's a simple web page we made using HTML and CSS. While it doesn't let you chat with friends or join servers, it gives you a taste of the Discord vibe. You'll see chat boxes, user pics, and a neat layout. Check it out on your computer or phone, imagine the chats, and think about how cool it would be to have your own chatting spot. Explore around and enjoy your virtual hangout!
